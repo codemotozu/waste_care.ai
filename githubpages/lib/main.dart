@@ -5,7 +5,7 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 import 'video-semantic-segmentation.dart';
-
+///test
 void main() {
   runApp(const WasteSenseApp());
 }
